@@ -9,4 +9,6 @@ dependencies:
   - pandas
   - matplotlib
   - scipy
+  - statsmodels
+  - seaborn
 prefix: /users/PAS2916/weiyidg/.conda/envs/stats-env
