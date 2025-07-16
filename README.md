@@ -42,7 +42,7 @@ bash
 jupyter lab
 Then open the notebook located at notebooks/stats_python.ipynb.
 
-Usage
+## Usage
 Each code example from the tutorial is placed in its own notebook cell.
 
 Markdown cells are used for headers, explanations, and context.
@@ -53,13 +53,13 @@ Example datasets are downloaded automatically or loaded from local text files.
 
 Visualizations demonstrate relationships between variables, statistical effects (e.g., gender, year), and modeling outputs using ols.
 
-Project Structure
+## Project Structure
 This project consists of one main Jupyter notebook and supporting setup files to recreate the environment. The notebook is organized into thematic sections matching the tutorial (e.g., correlation, regression, visualization).
 
-License
+## License
 This repository is intended for educational use only as part of the BSGP-7030 Data Science course.
 
-Acknowledgments
+## Acknowledgments
 This work is based on the open-access tutorial:
 Statistics in Python – Gaël Varoquaux
 Available at: https://scipy-lectures.org/packages/statistics/index.html
