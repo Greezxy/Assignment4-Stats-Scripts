@@ -41,6 +41,7 @@ Launch Jupyter Lab
 bash
 jupyter lab
 Then open the notebook located at notebooks/stats_python.ipynb.
+```
 
 ## Usage
 Each code example from the tutorial is placed in its own notebook cell.
