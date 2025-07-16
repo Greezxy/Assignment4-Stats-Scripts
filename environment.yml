@@ -7,4 +7,6 @@ dependencies:
   - python=3.10
   - jupyterlab
   - pandas
+  - matplotlib
+  - scipy
 prefix: /users/PAS2916/weiyidg/.conda/envs/stats-env
